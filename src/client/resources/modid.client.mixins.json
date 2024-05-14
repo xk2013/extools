@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin.client",
-	"compatibilityLevel": "JAVA_21",
+	"package": "top.xslm.mixin.client",
+	"compatibilityLevel": "JAVA_22",
 	"client": [
-		"ExampleClientMixin"
+		"ExtoolsMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
